@@ -4,25 +4,11 @@ use Illuminate\Database\Seeder;
 
 class DatabaseSeeder extends Seeder
 {
-    /**
-     * Seed the application's database.
-     *
-     * @return void
-     */
+
     public function run()
     {
-        // $this->call(UsersTableSeeder::class);
 
-        DB::table('users')->insert([
-            'firstname'=>'Admin',
-            'lastname'=>'Webmaster',
-            'email'=>'admin@collegeconnect.ph',
-            'password'=>bcrypt('123123123'),
-            'role'=>'Super Admin',
-            'status'=>1,
-            'created_at'=>now(),
-            'updated_at'=>now(),
-        ]);
+        // =============START OF CATEGORIES SEEDING=============
 
         // 1
         DB::table('categories')->insert([
@@ -159,29 +145,9 @@ class DatabaseSeeder extends Seeder
             'updated_at'=>date('Y-m-d'),
         ]);
 
-        DB::table('categories')->insert([
-            'type'=>'Post',
-            'description'=>'Event',
-            'status'=>1,
-            'created_at'=>date('Y-m-d'),
-            'updated_at'=>date('Y-m-d'),
-        ]);
+        // =============END OF CATEGORIES SEEDING=============
 
-        DB::table('categories')->insert([
-            'type'=>'Post',
-            'description'=>'News',
-            'status'=>1,
-            'created_at'=>date('Y-m-d'),
-            'updated_at'=>date('Y-m-d'),
-        ]);
-
-        DB::table('categories')->insert([
-            'type'=>'Post',
-            'description'=>'Scholarship',
-            'status'=>1,
-            'created_at'=>date('Y-m-d'),
-            'updated_at'=>date('Y-m-d'),
-        ]);
+        // =============START OF COURSES SEEDING=============
 
         DB::table('courses')->insert([
             'description'=>'Bachelor of Arts in History (AB History)',
@@ -1070,6 +1036,8 @@ class DatabaseSeeder extends Seeder
             'created_at'=>date('Y-m-d'),
             'updated_at'=>date('Y-m-d'),
         ]);
+
+        // =============END OF COURSES SEEDING=============
 
     }
 }

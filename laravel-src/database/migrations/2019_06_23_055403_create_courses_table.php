@@ -16,10 +16,8 @@ class CreateCoursesTable extends Migration
         Schema::create('courses', function (Blueprint $table) {
             $table->bigIncrements('id');
 
-            $table->string('branch')->nullable(); // STEM, HUMMS, etc.
             $table->integer('category_id');
             $table->string('description');
-            $table->text('image')->nullable();
             $table->string('status');
 
             $table->timestamps();
