@@ -58,6 +58,7 @@ INSERT INTO `categories` (`id`, `type`, `description`, `image`, `status`, `creat
 (13, 'Course', 'Transportation', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00'),
 (14, 'Course', 'Family and Consumer Science', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00'),
 (15, 'Course', 'Criminal Justice', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00');
+(16, 'Course', 'Aviation', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00');
 
 --
 -- Indexes for dumped tables
