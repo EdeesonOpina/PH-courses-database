@@ -1,0 +1,112 @@
+id,category_id,description,status,created_at,updated_at
+1,1,Bachelor of Arts in History (AB History),1,25/06/2019 0:00,25/06/2019 0:00
+2,1,Bachelor of Arts in Philosophy (AB Philosophy),1,25/06/2019 0:00,25/06/2019 0:00
+3,1,Bachelor of Fine Arts Major in Industrial Design (BFA),1,25/06/2019 0:00,25/06/2019 0:00
+4,1,Bachelor of Fine Arts Major in Industrial Design (BFA),1,25/06/2019 0:00,25/06/2019 0:00
+5,1,Bachelor of Fine Arts Major in Sculpture (BFA),1,25/06/2019 0:00,25/06/2019 0:00
+6,1,Bachelor of Fine Arts Major in Visual Communication (BFA),1,25/06/2019 0:00,25/06/2019 0:00
+7,2,Bachelor of Arts in Economics (AB Economics),1,25/06/2019 0:00,25/06/2019 0:00
+8,2,Bachelor of Science in Economics (BS Economics),1,25/06/2019 0:00,25/06/2019 0:00
+9,2,Bachelor of Arts in Psychology (AB Psychology),1,25/06/2019 0:00,25/06/2019 0:00
+10,2,Bachelor of Science in Psychology (BS Psychology),1,25/06/2019 0:00,25/06/2019 0:00
+11,2,Bachelor of Science in Criminology (BS Criminology),1,25/06/2019 0:00,25/06/2019 0:00
+12,2,Bachelor of Arts in Political Science (AB Political Science),1,25/06/2019 0:00,25/06/2019 0:00
+13,2,Bachelor of Arts in Linguistics (AB Linguistics),1,25/06/2019 0:00,25/06/2019 0:00
+14,2,Bachelor of Arts in Literature (AB Literature),1,25/06/2019 0:00,25/06/2019 0:00
+15,2,Bachelor of Arts in English (AB English),1,25/06/2019 0:00,25/06/2019 0:00
+16,2,Bachelor of Arts in Filipino,1,25/06/2019 0:00,25/06/2019 0:00
+17,2,Bachelor of Arts in Anthropology (AB Anthropology),1,25/06/2019 0:00,25/06/2019 0:00
+18,2,Bachelor of Arts in Sociology (AB Sociology),1,25/06/2019 0:00,25/06/2019 0:00
+19,2,Bachelor of Science in Islamic Studies (ABIS),1,25/06/2019 0:00,25/06/2019 0:00
+20,3,Bachelor of Science in Environmental Science (BSES),1,25/06/2019 0:00,25/06/2019 0:00
+21,3,Bachelor of Science in Forestry (BS Forestry),1,25/06/2019 0:00,25/06/2019 0:00
+22,3,Bachelor of Science in Fisheries (BSFi),1,25/06/2019 0:00,25/06/2019 0:00
+23,3,Bachelor of Science in Geology (BS Geology),1,25/06/2019 0:00,25/06/2019 0:00
+24,3,Bachelor of Science in Biology (BS Biology),1,25/06/2019 0:00,25/06/2019 0:00
+25,3,Bachelor of Science in Physics (BS Physics),1,25/06/2019 0:00,25/06/2019 0:00
+26,3,Bachelor of Science in Applied Physics (BS Applied Physics),1,25/06/2019 0:00,25/06/2019 0:00
+27,3,Bachelor of Science in Chemistry (BS Chemistry),1,25/06/2019 0:00,25/06/2019 0:00
+28,3,Bachelor of Science in Molecular Biology (BS Molecular Biology),1,25/06/2019 0:00,25/06/2019 0:00
+29,3,Bachelor of Science in Agroforestry,1,25/06/2019 0:00,25/06/2019 0:00
+30,4,Bachelor of Science in Computer Science (BSCS),1,25/06/2019 0:00,25/06/2019 0:00
+31,4,Bachelor of Science in Information Technology (BSIT),1,25/06/2019 0:00,25/06/2019 0:00
+32,4,Bachelor of Science in Information Systems (BSIS),1,25/06/2019 0:00,25/06/2019 0:00
+33,4,Bachelor of Science in Mathematics (BS Mathematics),1,25/06/2019 0:00,25/06/2019 0:00
+34,4,Bachelor of Science in Applied Mathematics,1,25/06/2019 0:00,25/06/2019 0:00
+35,4,Bachelor of Science in Statistics,1,25/06/2019 0:00,25/06/2019 0:00
+36,5,Bachelor of Science in Agriculture,1,25/06/2019 0:00,25/06/2019 0:00
+37,5,Bachelor of Science in Agribusiness,1,25/06/2019 0:00,25/06/2019 0:00
+38,6,Bachelor of Science in Architecture (BS Architecture),1,25/06/2019 0:00,25/06/2019 0:00
+39,6,Bachelor of Science in Interior Design (BS Interior Design),1,25/06/2019 0:00,25/06/2019 0:00
+40,6,Bachelor in Landscape Architecture (BLA),1,25/06/2019 0:00,25/06/2019 0:00
+41,7,Bachelor of Science in Accountancy (BSA),1,25/06/2019 0:00,25/06/2019 0:00
+42,7,Bachelor of Science in Accounting Technology,1,25/06/2019 0:00,25/06/2019 0:00
+43,7,Bachelor of Science in Agribusiness,1,25/06/2019 0:00,25/06/2019 0:00
+44,7,Bachelor of Science in Business Administration Major in Business Economics (BSBA),1,25/06/2019 0:00,25/06/2019 0:00
+45,7,Bachelor of Science in Business Administration Major in Financial Management (BSBA),1,25/06/2019 0:00,25/06/2019 0:00
+46,7,Bachelor of Science in Business Administration Major in Human Resource Development (BSBA),1,25/06/2019 0:00,25/06/2019 0:00
+47,7,Bachelor of Science in Business Administration Major in Marketing Management (BSBA),1,25/06/2019 0:00,25/06/2019 0:00
+48,7,Bachelor of Science in Business Administration Major in Operations Management (BSBA),1,25/06/2019 0:00,25/06/2019 0:00
+49,7,Bachelor of Science in Bachelor of Science in Hotel and Restaurant Management (BSHRM),1,25/06/2019 0:00,25/06/2019 0:00
+50,7,Bachelor of Science in Entrepreneurship,1,25/06/2019 0:00,25/06/2019 0:00
+51,7,Bachelor of Science in Tourism Management (BSBA),1,25/06/2019 0:00,25/06/2019 0:00
+52,7,Bachelor of Science in Real Estate Management (BSREM),1,25/06/2019 0:00,25/06/2019 0:00
+53,8,Bachelor of Science in Nursing (BSN),1,25/06/2019 0:00,25/06/2019 0:00
+54,8,Bachelor of Science in Physical Therapy (BSPT),1,25/06/2019 0:00,25/06/2019 0:00
+55,8,Bachelor of Science in Occupational Therapy (BSOT),1,25/06/2019 0:00,25/06/2019 0:00
+56,8,Bachelor of Science in in Pharmacy (BS Pharmacy),1,25/06/2019 0:00,25/06/2019 0:00
+57,8,Bachelor of Science in Midwifery (BS Midwifery),1,25/06/2019 0:00,25/06/2019 0:00
+58,8,Bachelor of Science in Medical Technology (BS Med Tech),1,25/06/2019 0:00,25/06/2019 0:00
+59,8,Bachelor of Science in Radiologic Technology (BS Rad Tech),1,25/06/2019 0:00,25/06/2019 0:00
+60,8,Bachelor of Science in Respiratory Therapy,1,25/06/2019 0:00,25/06/2019 0:00
+61,8,Bachelor of Science in Speech-Language Pathology,1,25/06/2019 0:00,25/06/2019 0:00
+62,9,Bachelor of Science in Radiologic Technology (BS Rad Tech),1,25/06/2019 0:00,25/06/2019 0:00
+63,9,Bachelor in Secondary Education (BSED),1,25/06/2019 0:00,25/06/2019 0:00
+64,9,Bachelor in Elementary Education (BEED),1,25/06/2019 0:00,25/06/2019 0:00
+65,9,Bachelor in Secondary Education Major in Technology and Livelihood Education (BSED),1,25/06/2019 0:00,25/06/2019 0:00
+66,9,Bachelor in Secondary Education Major in Biological Sciences (BSED),1,25/06/2019 0:00,25/06/2019 0:00
+67,9,Bachelor in Secondary Education Major in English (BSED),1,25/06/2019 0:00,25/06/2019 0:00
+68,9,Bachelor in Secondary Education Major in Filipino (BSED),1,25/06/2019 0:00,25/06/2019 0:00
+69,9,Bachelor in Secondary Education Major in Mathematics (BSED),1,25/06/2019 0:00,25/06/2019 0:00
+70,9,Bachelor in Secondary Education Major in Islamic Studies (BSED),1,25/06/2019 0:00,25/06/2019 0:00
+71,9,"Bachelor in Secondary Education Major in Music, Arts, Physical and Health Education (BSED)",1,25/06/2019 0:00,25/06/2019 0:00
+72,9,Bachelor in Secondary Education Major in Physical Sciences (BSED),1,25/06/2019 0:00,25/06/2019 0:00
+73,9,Bachelor in Secondary Education Major in Social Studies (BSED),1,25/06/2019 0:00,25/06/2019 0:00
+74,9,Bachelor in Secondary Education Major in Values Education (BSED),1,25/06/2019 0:00,25/06/2019 0:00
+75,9,Bachelor in Elementary Education Major in Preschool Education (BEED),1,25/06/2019 0:00,25/06/2019 0:00
+76,9,Bachelor in Elementary Education Major in Special Education (BEED),1,25/06/2019 0:00,25/06/2019 0:00
+77,9,Bachelor of Library and Information Science (BLIS),1,25/06/2019 0:00,25/06/2019 0:00
+78,9,Bachelor of Physical Education,1,25/06/2019 0:00,25/06/2019 0:00
+79,9,Bachelor of Sports Science,1,25/06/2019 0:00,25/06/2019 0:00
+80,10,Bachelor of Science in Aeronautical Engineering (BS AeroE),1,25/06/2019 0:00,25/06/2019 0:00
+81,10,Bachelor of Science in Chemical Engineering (BSChE),1,25/06/2019 0:00,25/06/2019 0:00
+82,10,Bachelor of Science in Ceramic Engineering (BSCerE),1,25/06/2019 0:00,25/06/2019 0:00
+83,10,Bachelor of Science in Civil Engineering (BSCE),1,25/06/2019 0:00,25/06/2019 0:00
+84,10,Bachelor of Science in Electrical Engineering (BSEE),1,25/06/2019 0:00,25/06/2019 0:00
+85,10,Bachelor of Science in Electronics and Communications Engineering (BSECE),1,25/06/2019 0:00,25/06/2019 0:00
+86,10,Bachelor of Science in Geodetic Engineering (BSGE),1,25/06/2019 0:00,25/06/2019 0:00
+87,10,Bachelor of Science in Geological Engineering,1,25/06/2019 0:00,25/06/2019 0:00
+88,10,Bachelor of Science in Industrial Engineering (BSIE),1,25/06/2019 0:00,25/06/2019 0:00
+89,10,Bachelor of Science in Marine Engineering i(BSMarE),1,25/06/2019 0:00,25/06/2019 0:00
+90,10,Bachelor of Science in Materials Engineering (BSMatE),1,25/06/2019 0:00,25/06/2019 0:00
+91,10,Bachelor of Science in Mechanical Engineering (BSME),1,25/06/2019 0:00,25/06/2019 0:00
+92,10,Bachelor of Science in Metallurgical Engineering (BSMetE),1,25/06/2019 0:00,25/06/2019 0:00
+93,10,Bachelor of Science in Mining Engineering (BSEM),1,25/06/2019 0:00,25/06/2019 0:00
+94,10,Bachelor of Science in Sanitary Engineering (BSSE),1,25/06/2019 0:00,25/06/2019 0:00
+95,10,Bachelor of Science in Computer Engineering (BSCpE),1,25/06/2019 0:00,25/06/2019 0:00
+96,10,Bachelor of Science in Agricultural Engineering (BSAE),1,25/06/2019 0:00,25/06/2019 0:00
+97,10,Bachelor of Science in Petroleum Engineering (BSPE),1,25/06/2019 0:00,25/06/2019 0:00
+98,11,Bachelor of Science in in Development Communication (BS DevComm),1,25/06/2019 0:00,25/06/2019 0:00
+99,11,Bachelor of Arts in Journalism (AB Journalism),1,25/06/2019 0:00,25/06/2019 0:00
+100,11,Bachelor of Arts in Communication (AB Communication),1,25/06/2019 0:00,25/06/2019 0:00
+101,11,Bachelor of Arts in Broadcasting (AB Broadcasting),1,25/06/2019 0:00,25/06/2019 0:00
+102,12,Bachelor of Science in Customs Administration (BS Customs Administration),1,25/06/2019 0:00,25/06/2019 0:00
+103,12,Bachelor of Science in Community Development,1,25/06/2019 0:00,25/06/2019 0:00
+104,12,Bachelor of Science in Foreign Service,1,25/06/2019 0:00,25/06/2019 0:00
+105,12,Bachelor of Arts in International Studies,1,25/06/2019 0:00,25/06/2019 0:00
+106,12,Bachelor of Public Administration (BPA),1,25/06/2019 0:00,25/06/2019 0:00
+107,12,Bachelor of Science in Social Work (BS Social Work),1,25/06/2019 0:00,25/06/2019 0:00
+108,12,Bachelor of Science in Public Safety (BSPS),1,25/06/2019 0:00,25/06/2019 0:00
+109,13,Bachelor of Science in Marine Transportation (BSMT),1,25/06/2019 0:00,25/06/2019 0:00
+110,14,Bachelor of Science in Nutrition and Dietetics (BS Nutrition and Dietetics),1,25/06/2019 0:00,25/06/2019 0:00
+111,15,Bachelor of Science in Forensic Science (BSFsci),1,25/06/2019 0:00,25/06/2019 0:00
