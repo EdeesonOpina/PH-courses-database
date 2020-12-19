@@ -41,22 +41,23 @@ CREATE TABLE `categories` (
 -- Dumping data for table `categories`
 --
 
-INSERT INTO `categories` (`id`, `type`, `description`, `status`, `created_at`, `updated_at`) VALUES
-(1, 'Course', 'Humanities', '1', '2019-06-24 16:00:00', '2019-06-24 16:00:00'),
-(2, 'Course', 'Social Sciences', '1', '2019-06-24 16:00:00', '2019-06-24 16:00:00'),
-(3, 'Course', 'Natural Sciences', '1', '2019-06-24 16:00:00', '2019-06-24 16:00:00'),
-(4, 'Course', 'Formal Sciences', '1', '2019-06-24 16:00:00', '2019-06-24 16:00:00'),
-(5, 'Course', 'Agriculture', '1', '2019-06-24 16:00:00', '2019-06-24 16:00:00'),
-(6, 'Course', 'Architecture and Design', '1', '2019-06-24 16:00:00', '2019-06-24 16:00:00'),
-(7, 'Course', 'Business', '1', '2019-06-24 16:00:00', '2019-06-24 16:00:00'),
-(8, 'Course', 'Health Sciences', '1', '2019-06-24 16:00:00', '2019-06-24 16:00:00'),
-(9, 'Course', 'Education', '1', '2019-06-24 16:00:00', '2019-06-24 16:00:00'),
-(10, 'Course', 'Engineering', '1', '2019-06-24 16:00:00', '2019-06-24 16:00:00'),
-(11, 'Course', 'Media and Communication', '1', '2019-06-24 16:00:00', '2019-06-24 16:00:00'),
-(12, 'Course', 'Public Administration', '1', '2019-06-24 16:00:00', '2019-06-24 16:00:00'),
-(13, 'Course', 'Transportation', '1', '2019-06-24 16:00:00', '2019-06-24 16:00:00'),
-(14, 'Course', 'Family and Consumer Science', '1', '2019-06-24 16:00:00', '2019-06-24 16:00:00'),
-(15, 'Course', 'Criminal Justice', '1', '2019-06-24 16:00:00', '2019-06-24 16:00:00');
+INSERT INTO `categories` (`id`, `type`, `description`, `image`, `status`, `created_at`, `updated_at`) VALUES
+(1, 'Course', 'Humanities', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00'),
+(2, 'Course', 'Social Sciences', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00'),
+(3, 'Course', 'Natural Sciences', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00'),
+(4, 'Course', 'Formal Sciences', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00'),
+(5, 'Course', 'Agriculture', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00'),
+(6, 'Course', 'Architecture and Design', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00'),
+(7, 'Course', 'Business', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00'),
+(8, 'Course', 'Health Sciences', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00'),
+(9, 'Course', 'Education', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00'),
+(10, 'Course', 'Engineering', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00'),
+(11, 'Course', 'Media and Communication', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00'),
+(12, 'Course', 'Public Administration', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00'),
+(13, 'Course', 'Transportation', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00'),
+(14, 'Course', 'Family and Consumer Science', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00'),
+(15, 'Course', 'Criminal Justice', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00');
+(16, 'Course', 'Aviation', NULL, '1', '2019-06-22 16:00:00', '2019-06-22 16:00:00');
 
 --
 -- Indexes for dumped tables
